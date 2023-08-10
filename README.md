@@ -1,5 +1,5 @@
 # Analysis of the gut microbiome following dermal injury
-This repository holds the Jupyter notebooks which were used to generate figures for the analysis of our manuscript: 
+This repository holds the Jupyter notebooks which were used to generate Figure 3 for the analysis of our manuscript: 
 
 **_Dermal injury drives a skin-gut axis that disrupts the intestinal microbiome and intestinal immune homeostasis_** (currently in review).
 
