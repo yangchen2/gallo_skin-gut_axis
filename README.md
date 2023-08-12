@@ -37,9 +37,9 @@ All sequencing data was processed using the [Qiita default metagenomic workflow]
 
 ## **Data Filtering and Analyses**
 
-1. Taxonomic feature table was then filtered using [Zebra Filter](https://github.com/biocore/zebra_filter) based on [genome coverage](https://pubmed.ncbi.nlm.nih.gov/36073806/) with default 10% minimum coverage threshold. Genomes falling below coverage threshold were removed from Woltka generated taxonomic feature table. 
-2. Differential abundance analysis for taxonomic and function feature tables were performed using [Songbird](https://github.com/biocore/songbird).
-3. Community (alpha and beta) analyses were performed by calculating the [Shannon Index](http://scikit-bio.org/docs/latest/generated/skbio.diversity.alpha.shannon.html) via Python's `skbio.diversity` package for alpha diversity and [RPCA](https://github.com/biocore/gemelli) via Gemelli for beta diversity. (See Jupyter notebooks for specifics.)
+1. Taxonomic feature tables were then further filtered using [Zebra Filter](https://github.com/biocore/zebra_filter) based on [genome coverage](https://pubmed.ncbi.nlm.nih.gov/36073806/) with default 10% minimum coverage threshold. Genomes falling below coverage threshold were removed from Woltka generated taxonomic feature table. 
+2. Community (alpha and beta) analyses were performed by calculating the [Shannon Index](http://scikit-bio.org/docs/latest/generated/skbio.diversity.alpha.shannon.html) via Python's `skbio.diversity` package for alpha diversity and  phylogenetically informed robust Aitchison principal components analysis [(Phylo-RPCA)](https://github.com/biocore/gemelli) via Gemelli for beta diversity. (See Jupyter notebooks for specifics.)
+3. Differential abundance analysis for taxonomic and function feature tables were performed using [Songbird](https://github.com/biocore/songbird).
 
 ## **Repository overview**
 This repository contains the data inputs and Jupyter notebooks to generate Figure 3 in our manuscript. 
