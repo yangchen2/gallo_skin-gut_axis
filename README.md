@@ -3,7 +3,7 @@
 ## **Overview**
 This repository holds the Jupyter notebooks which were used to generate Figure 3 for the analysis of our manuscript: 
 
-**_Dermal injury drives a skin-gut axis that disrupts the intestinal microbiome and intestinal immune homeostasis_** (Published in Nature Communications.
+**_Dermal injury drives a skin-gut axis that disrupts the intestinal microbiome and intestinal immune homeostasis_** (Published in Nature Communications).
 
 **Authors:** Tatsuya Dokoshi<sup>1</sup>, Yang Chen<sup>1,2</sup>, Kellen J. Cavagnero<sup>1</sup>, Gibraan Rahman<sup>2</sup>, Daniel Hakim<sup>2</sup>, Samantha Brinton<sup>1</sup>, Hana Schwarz<sup>1</sup>, Alan O'Neill<sup>1</sup>, Yoshiyuki Nakamura<sup>1</sup>, Fengwu Li<sup>1</sup>, Nita H. Salzman<sup>3</sup>, Rob Knight<sup>4,5,6,7</sup>, Richard L. Gallo<sup>†</sup>
 
